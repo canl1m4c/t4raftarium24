@@ -15,7 +15,7 @@
       </p>
     </section>
     <section id="neden-taraftarium">
-      <h2>📺 Taraftarium24 Avantajları</h2>
+      <h2>📺 Taraftarium24 Avantajları.</h2>
       <ul>
         <li><strong>Full HD:</strong> Yüksek çözünürlüklü yayın</li>
         <li><strong>Kesintisiz:</strong> Donma yaşamadan maç keyfi</li>
